@@ -1,7 +1,4 @@
 - 👋 I’m just here to learn new stuff
-- 👀 -
-- 🌱 -
-- 💞️ -
 - 📫 How to reach me ... www.ame72.com
 
 <!---
