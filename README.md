@@ -1,5 +1,5 @@
-- 👋 I’m just here to learn new stuff
-- 📫 How to reach me ... www.ame72.com
+- 👋 I’m just here to learn cool stuff
+- 📫 www.ame72.com
 
 <!---
 JamesAme/JamesAme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
